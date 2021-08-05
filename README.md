@@ -85,8 +85,13 @@
 [python]: https://codermohit.com/?s=python
 [java]: https://codermohit.com/?s=java
 [website]: https://CoderMohit.com
-[course]: https://codermohit.com/python-programming-course%e2%80%8b/
+[course]: https://codermohit.com/python-programming-course%e2%80%8b
 [twitter]: https://twitter.com/Mohitg1108
 [youtube]: https://www.youtube.com/c/CoderMohit
 [instagram]: https://www.instagram.com/itz_mohit.goyal
-[linkedin]: https://www.linkedin.com/in/mohitgoyal1108/
+[linkedin]: https://www.linkedin.com/in/mohitgoyal1108
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
