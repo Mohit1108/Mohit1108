@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codermohit.com&style=for-the-badge&url=https%3A%2F%2Fcodermohit.com)](https://Codermohit.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Student[Artificial Intelligence & Robotics], Coder, and Freelancer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
