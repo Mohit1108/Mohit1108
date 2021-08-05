@@ -1,7 +1,7 @@
-### Hi there, I'm Mohit Goyal - aka [codeSTACKr][website] 👋
+### Hi there, I'm Mohit Goyal - aka [Coder Mohit][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codermohit.com&style=for-the-badge&url=https%3A%2F%2Fcodermohit.com)](https://Codermohit.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
