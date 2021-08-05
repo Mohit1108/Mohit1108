@@ -38,14 +38,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [VS Code Has Dev Tools & Console!! No Need For Chrome Anymore 👋](https://www.youtube.com/watch?v=vHZPeohPHqo)
-- [⭐ BONUS: STACKr News Shorts - BYE BYE VS CODE ??](https://www.youtube.com/watch?v=r2ha0n2s3wE)
-- [⭐ BONUS: STACKr News Shorts - 5 Things Better in Svelte than React](https://www.youtube.com/watch?v=I-8aVr7vnlA)
-- [Bootcamp Graduate Advice 💪, Who's the CSS King? 👑, GitHub Copilot 🤖 // STACKr News Weekly - Issue 5](https://www.youtube.com/watch?v=F6KzVOrhEXw)
-- [STACKr News Shorts - Issue 4 - Syntax.fm Potluck](https://www.youtube.com/watch?v=x8HNcal4fw0)
+- [Top 10 Python Turtle Designs | Best Drawing Using Turtle 👋](https://www.youtube.com/watch?v=dgEMnRUMLoA)
+- [⭐ How to Create Fidget Spinner Using Python??](https://www.youtube.com/watch?v=HTT8s8DQUmY&t=3s)
+- [⭐Password Generator With GUI Using Python Source Code](https://www.youtube.com/watch?v=y8OJTkee5sk)
+- [Create Scientific GUI Calculator Using Python With Source Code](https://www.youtube.com/watch?v=KPGUa-F7xL0)
+- [Weight Converter Project using Python with GUI By Coder Mohit](https://www.youtube.com/watch?v=ujldGpMce_Q)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [More videos...](https://www.youtube.com/c/CoderMohit/videos)
 
 ---
 
