@@ -51,14 +51,17 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Python Projects With Full Source Code + Video Documentation](https://codermohit.com/python-project/)
+- [Best Python Projects With Full Source Code + Video Documentation][Python_Project]
 - [Best Arduino Projects With Full Code + Image Preview][Arduino_Project]
-- [Get Free Udemy Courses Daily With Original Certificate ](https://codermohit.com/udemy-free-courses-with-certificate/)
-- [Python Basic learing Codes](https://codermohit.com/python-basic-codes/)
-- [Online Python Program Executor ](https://codermohit.com/python-executor/)
+- [Get Free Udemy Courses Daily With Original Certificate ](https://techycodes.tech/)
+- [HTML Project][HTML]
+- [CSS Project][CSS]
+- [JS Project][JS]
+- [Hacking](https://techycodes.tech/category/hacking/)
+- [Tech - Talks](https://techycodes.tech/category/tech-talks/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://codermohit.com/posts)
+➡️ [More blog posts...](https://techycodes.tech)
 
 ---
 
