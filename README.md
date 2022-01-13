@@ -1,11 +1,10 @@
 ### Hi there, I'm Mohit Goyal - aka [Coder Mohit][website] 👋
 [![Website](https://img.shields.io/website?label=techycodes.tech&style=for-the-badge&url=https%3A%2F%2Fcodermohit.com)](https://techycodes.tech)
-[![Website](https://img.shields.io/website?label=Errorhub.tech&style=for-the-badge&url=https%3A%2F%2Fcodermohit.com)](https://errorhub.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MohitG1108)
 
 ## I'm a Student[Artificial Intelligence & Robotics], Coder, and Freelancer!!
 
-- 🔭 It's My First Website: [Coder Mohit][course]!
+- 🔭 It's My First Website: [Techy Codes][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
