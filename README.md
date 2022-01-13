@@ -1,8 +1,9 @@
 ### Hi there, I'm Mohit Goyal - aka [Techy Codes][website] 👋
 [![Website](https://img.shields.io/website?label=techycodes.tech&style=for-the-badge&url=https://TechyCodes.Tech)](https://techycodes.tech)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://TechyCodes.Tech)][Portfolio]
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MohitG1108)
 
-## I'm a Student[Artificial Intelligence & Robotics], Coder, and Freelancer!!
+## I'm a Student[Artificial Intelligence & Robotics]!!
 
 - 🔭 It's My First Website: [Techy Codes][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -88,7 +89,7 @@
 [youtube]: https://www.youtube.com/c/CoderMohit
 [instagram]: https://www.instagram.com/itz_mohit.goyal
 [linkedin]: https://www.linkedin.com/in/mohitgoyal1108
-
+[Portfolio]:https://mohitgoyal.me/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
