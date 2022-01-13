@@ -52,7 +52,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Best Python Projects With Full Source Code + Video Documentation](https://codermohit.com/python-project/)
-- [Best Arduino Projects With Full Code + Image Preview]([Arduino_Project])
+- [Best Arduino Projects With Full Code + Image Preview][Arduino_Project]
 - [Get Free Udemy Courses Daily With Original Certificate ](https://codermohit.com/udemy-free-courses-with-certificate/)
 - [Python Basic learing Codes](https://codermohit.com/python-basic-codes/)
 - [Online Python Program Executor ](https://codermohit.com/python-executor/)
