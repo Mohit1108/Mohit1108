@@ -1,5 +1,5 @@
-### Hi there, I'm Mohit Goyal - aka [Coder Mohit][website] 👋
-[![Website](https://img.shields.io/website?label=techycodes.tech&style=for-the-badge&url=https%3A%2F%2Fcodermohit.com)](https://techycodes.tech)
+### Hi there, I'm Mohit Goyal - aka [Techy Codes][website] 👋
+[![Website](https://img.shields.io/website?label=techycodes.tech&style=for-the-badge&url=https:TechyCodes.Tech)](https://techycodes.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=MohitG1108)
 
 ## I'm a Student[Artificial Intelligence & Robotics], Coder, and Freelancer!!
@@ -11,11 +11,11 @@
 - ⚡ Fun fact: I love to Create Intresting Projects!
 ### Connect with me:
 
-[<img align="left" alt="CoderMohit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CoderMohit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CoderMohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CoderMohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CoderMohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TechyCodes.Tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="TechyCodes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="TechyCodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="TechyCodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TechyCodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -73,10 +73,14 @@
 
 
 
-[python]: https://codermohit.com/?s=python
-[java]: https://codermohit.com/?s=java
-[website]: https://CoderMohit.com
-[course]: https://codermohit.com/python-programming-course%e2%80%8b
+[Arduino_Project]: https://techycodes.tech/?sarduino-projects
+[Python_Project]: https://techycodes.tech/?sarduino-projects
+[HTML]: https://techycodes.tech/?s=html
+[CSS]: https://techycodes.tech/?s=css
+[JS]: https://techycodes.tech/?s=js
+
+[java]: https://techycodes.tech/?s=java
+[website]: https://techycodes.tech
 [twitter]: https://twitter.com/Mohitg1108
 [youtube]: https://www.youtube.com/c/CoderMohit
 [instagram]: https://www.instagram.com/itz_mohit.goyal
