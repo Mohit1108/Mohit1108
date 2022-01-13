@@ -4,7 +4,7 @@
 
 ## I'm a Student[Artificial Intelligence & Robotics], Coder, and Freelancer!!
 
-- 🔭 It's My First Website: [Techy Codes][course]!
+- 🔭 It's My First Website: [Techy Codes][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
