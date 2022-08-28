@@ -1,5 +1,5 @@
 ### Hi there, I'm Mohit Goyal - aka [Techy Codes][website] 👋
-[![Website](https://img.shields.io/website?label=techycodes.tech&style=for-the-badge&url=https://TechyCodes.Tech)][website]
+[![Website](https://img.shields.io/website?label=smashershub.in&style=for-the-badge&url=https://smashershub.in)][website]
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mohitgoyal.me)][Portfolio]
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
