@@ -1,22 +1,21 @@
-### Hi there, I'm Mohit Goyal - aka [Techy Codes][website] 👋
+### Hi there, I'm Mohit Goyal [website] 👋
 [![Website](https://img.shields.io/website?label=smashershub.in&style=for-the-badge&url=https://smashershub.in)][website]
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mohitgoyal.me)][Portfolio]
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a Student[Artificial Intelligence & Robotics]!!
 
-- 🔭 It's My First Website: [Techy Codes][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Create Intresting Projects!
 ### Connect with me:
 
-[<img align="left" alt="TechyCodes.Tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TechyCodes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="TechyCodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TechyCodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TechyCodes | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="smashershub.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Smashers hub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Smashers Hub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Smashershub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Smashershub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -54,15 +53,15 @@
 <!-- BLOG-POST-LIST:START -->
 - [Best Python Projects With Full Source Code + Video Documentation][Python_Project]
 - [Best Arduino Projects With Full Code + Image Preview][Arduino_Project]
-- [Get Free Udemy Courses Daily With Original Certificate ](https://techycodes.tech/)
+- [Get Free Udemy Courses Daily With Original Certificate ](https://smashershub.in/)
 - [HTML Project][HTML]
 - [CSS Project][CSS]
 - [JS Project][JS]
-- [Hacking](https://techycodes.tech/category/hacking/)
-- [Tech - Talks](https://techycodes.tech/category/tech-talks/)
+- [Hacking](https://smashershub.in/category/hacking/)
+- [Tech - Talks](https://smashershub.in/category/tech-talks/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://techycodes.tech)
+➡️ [More blog posts...](https://smashershub.in.tech)
 
 ---
 
@@ -77,14 +76,14 @@
 
 
 
-[Arduino_Project]: https://techycodes.tech/?sarduino-projects
-[Python_Project]: https://techycodes.tech/?sarduino-projects
-[HTML]: https://techycodes.tech/?s=html
-[CSS]: https://techycodes.tech/?s=css
-[JS]: https://techycodes.tech/?s=js
+[Arduino_Project]: https://smashershub.in/?sarduino-projects
+[Python_Project]: https://smashershub.in/?sarduino-projects
+[HTML]: https://smashershub.in/?s=html
+[CSS]: https://smashershub.in/?s=css
+[JS]: https://smashershub.in/?s=js
 
-[java]: https://techycodes.tech/?s=java
-[website]: https://techycodes.tech
+[java]: https://smashershub.in/?s=java
+[website]: https://smashershub.in
 [twitter]: https://twitter.com/Mohitg1108
 [youtube]: https://www.youtube.com/c/CoderMohit
 [instagram]: https://www.instagram.com/itz_mohit.goyal
