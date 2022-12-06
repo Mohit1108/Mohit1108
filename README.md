@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohit Goyal [website] 👋
 [![Website](https://img.shields.io/website?label=smashershub.in&style=for-the-badge&url=https://smashershub.in)][website]
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mohitgoyal.me)][Portfolio]
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mohitgoyal.in)][Portfolio]
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a Student[Artificial Intelligence & Robotics]!!
@@ -88,7 +88,7 @@
 [youtube]: https://www.youtube.com/c/CoderMohit
 [instagram]: https://www.instagram.com/itz_mohit.goyal
 [linkedin]: https://www.linkedin.com/in/mohitgoyal1108
-[Portfolio]:https://mohitgoyal.me/
+[Portfolio]:https://mohitgoyal.in/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
