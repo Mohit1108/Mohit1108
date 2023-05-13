@@ -31,7 +31,7 @@
 [JS]: https://smashershub.in/?s=js
 
 [java]: https://smashershub.in/?s=java
-[website]: https://smashershub.in
+[website]: https://mohitgoyal.in/
 [twitter]: https://twitter.com/Mohitg1108
 [youtube]: https://www.youtube.com/c/CoderMohit
 [instagram]: https://www.instagram.com/itz_mohit.goyal
