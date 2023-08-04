@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohit Goyal [website] 👋
 [![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://mohitgoyal.in)][Portfolio]
 [![Twitter Follow](https://img.shields.io/twitter/follow/MOhitg1108?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-[![ReactPortfolio](https://img.shields.io/website?label=ReactPortfolio&style=for-the-badge&url=https://mohitgoyal.in)][ReactPortfolio]
+[![ReactPortfolio](https://img.shields.io/website?label=ReactPortfolio&style=for-the-badge&url=https://reactjs-mohit.netlify.app)][ReactPortfolio]
 
 
 
