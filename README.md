@@ -42,7 +42,7 @@
 [instagram]: https://www.instagram.com/itz_mohit.goyal
 [linkedin]: https://www.linkedin.com/in/mohitgoyal1108
 [Portfolio]:https://mohitgoyal.in/
-[ReactPortfolio]:reactjs-mohit.netlify.app
+[ReactPortfolio]:https://reactjs-mohit.netlify.app/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
